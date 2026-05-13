@@ -1,0 +1,3 @@
+- Use Proton experimental or latest Proton CachyOS, IN HEROIC LAUNCHER, not Steam.
+- Create the Steam Shortcut using Heroic
+- Play :)

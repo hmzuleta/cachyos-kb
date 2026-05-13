@@ -1,0 +1,2 @@
+- https://github.com/leia-uwu/obs-wayland-hotkeys
+	- `yay -S obs-wayland-hotkeys-git`
