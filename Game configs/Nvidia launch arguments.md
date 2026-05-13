@@ -1,0 +1,1 @@
+1. `PROTON_ENABLE_NVAPI=1 %command%`: in case the game supports DLSS but doesn't show it in the menu for some reason.

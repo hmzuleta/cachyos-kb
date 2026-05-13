@@ -1,0 +1,1 @@
+`PROTON_ENABLE_NVAPI=1 %command%` with latest Proton works fine
