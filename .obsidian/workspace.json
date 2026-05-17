@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18811daf80222615",
+        "id": "821dcb0facdab399",
         "type": "tabs",
         "children": [
           {
-            "id": "53e0d5a842693b8c",
+            "id": "c6966aa28aba4865",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "git-pull-request",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -214,7 +204,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e0d5a842693b8c",
+  "active": "c6966aa28aba4865",
   "lastOpenFiles": [
+    "System configs/CachyOS & Arch Linux commands.md",
+    "System configs/BTRFS settings.md",
+    "System configs/Python.md",
+    "System configs/Limine settings.md",
+    "System configs/keyd fix for caps lock delay (?).md",
+    "README.md",
+    "scripts/backups/kde-settings-backup.sh",
+    "scripts/backups/coolercontrol-backup.sh",
+    "scripts/backups",
+    "scripts",
+    "System configs/KDE/Spectacle settings.md",
+    "System configs/KDE/CachyOS KDE settings.md",
+    "System configs/KDE",
+    "System configs",
+    "Game configs/The Finals.md",
+    "Game configs/Rocket League.md",
+    "Game configs/Nvidia launch arguments.md",
+    "Game configs",
+    "CachyOS setup.md",
+    "App configs/Tailscale configs.md",
+    "App configs/Steam & Heroic.md",
+    "App configs/Obsidian configs.md",
+    "App configs/OBS Studio configs.md",
+    "App configs/Ghostty configs.md",
+    "App configs/CoolerControl setup.md",
+    "App configs",
+    "Home Assistant/HAOS Tailscale.md",
+    "Home Assistant 1/HAOS Tailscale.md",
+    "Home Assistant 1",
+    "Home Assistant",
+    "scripts/backups/venv/lib/python3.14/site-packages/pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "scripts/backups/venv/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+    "home/hmzo/Documents/repos/README.md",
+    "2026-04-16.md",
+    "create a link.md"
   ]
 }
